@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import os
 import sys
 from dataclasses import dataclass
@@ -118,6 +117,3 @@ class ModelTrainer:
             
         except Exception as e:
             raise CustomException(e,sys)
-=======
- 
->>>>>>> da750f084812d708d8dab492566b451a5b1021dd
